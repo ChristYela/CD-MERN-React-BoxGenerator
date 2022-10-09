@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.color, .boxSize, .number{
+  margin-right: 10px;
+  margin-top: 25px;
+}
+
+.color, .boxSize{
+  font-weight: 700;
+  background-color: aquamarine;
+  margin-top: 25px;
+}
+
+.text{
+  margin-right: 15px;
+}
+
+
